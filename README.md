@@ -1,2 +1,4 @@
 # library-management-system-sql
-SQL-based library management system using relational tables, stored procedures, triggers, functions, and cursors to manage book transactions and overdue fees.
+This project is a database-driven Library Management System built for an advanced SQL course. 
+It is designed to manage book transactions, member activity, due dates, overdue books, and late fee calculations. 
+The project demonstrates relational database design and business logic implementation through SQL features such as stored procedures, functions, triggers, and cursors.
